@@ -2,8 +2,6 @@
 
 A secure voice-based authentication system that uses voice biometrics to identify and authenticate users. This application provides both enrollment and recognition capabilities with a user-friendly GUI.
 
-![System Screenshot](screenshot.png) *(Replace with actual screenshot)*
-
 ## Features
 
 - **Voice Enrollment**: Register users by recording their voice samples
